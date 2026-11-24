@@ -1,0 +1,16 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Default main-window and file-dialog capabilities",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "dialog:default",
+    "core:window:allow-start-dragging",
+    "core:window:allow-close",
+    "core:window:allow-minimize",
+    "core:window:allow-toggle-maximize",
+    "core:window:allow-set-focusable",
+    "core:window:allow-set-always-on-bottom"
+  ]
+}

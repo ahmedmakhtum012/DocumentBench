@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "values": [
+    {"name":"auto recovery default","group":"recovery","value":10,"unit":"minutes","source":"function 0x14042aea0"},
+    {"name":"auto recovery minimum","group":"recovery","value":1,"unit":"minutes","source":"function 0x14042aea0"},
+    {"name":"auto recovery maximum","group":"recovery","value":120,"unit":"minutes","source":"function 0x14042aea0"},
+    {"name":"auto recovery first suffix","group":"recovery","value":"(Autosaved).pdf","source":"function 0x140504c40"},
+    {"name":"zoom presets","group":"navigation","value":"25, 50, 75, 100, 125, 150, 200, 400, 800, 1600","unit":"percent","source":"ev_7a6befdc2221ba8ca92d3a6e2f053214323be5c43435dc6f7741a356aa0d5527"},
+    {"name":"hand shortcut","group":"navigation","value":"Ctrl+H","source":"function 0x140452ff0"},
+    {"name":"edit shortcut","group":"navigation","value":"Ctrl+E","source":"function 0x140452ff0"},
+    {"name":"fit page shortcut","group":"navigation","value":"Ctrl+0","source":"function 0x140452ff0"},
+    {"name":"actual size shortcut","group":"navigation","value":"Ctrl+1","source":"function 0x140452ff0"},
+    {"name":"fit width shortcut","group":"navigation","value":"Ctrl+2","source":"function 0x140452ff0"},
+    {"name":"smart tools independent state","group":"smart tools","value":true,"source":"function 0x14067e360"},
+    {"name":"XFA changes form creation eligibility","group":"forms","value":true,"source":"function 0x14067e360"},
+    {"name":"redaction requires separate apply","group":"protect","value":true,"source":"ev_b1f0aa119b2f838b1449d7129a60dbd0066eb2bb57396c408e62a9e9f6801135"},
+    {"name":"native Windows printer device context","group":"print","value":true,"source":"function 0x1408b09f0"},
+    {"name":"booklet binding option","group":"print","value":true,"source":"ev_14c563b4312f784a6dfeac02543c5dc23943b1646c74637dc680f3de145a8c7c"},
+    {"name":"initial zoom","group":"navigation","value":100,"unit":"percent","estimated":true},
+    {"name":"window width","group":"layout","value":1440,"unit":"px","estimated":true},
+    {"name":"window height","group":"layout","value":900,"unit":"px","estimated":true}
+  ]
+}

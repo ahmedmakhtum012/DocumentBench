@@ -1,0 +1,29 @@
+{
+  "name": "documentbench",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Native Windows PDF workspace. React is hosted inside the Tauri desktop shell; this is not a website.",
+  "scripts": {
+    "start": "cmd /c launch-app.cmd",
+    "desktop": "cmd /c launch-app.cmd",
+    "build": "tsc -b && vite build",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@fluentui/react-icons": "^2.0.300",
+    "@tauri-apps/api": "^2.8.0",
+    "@tauri-apps/plugin-dialog": "^2.4.0",
+    "pdfjs-dist": "^5.4.149",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.8.0",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.3",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.5"
+  }
+}

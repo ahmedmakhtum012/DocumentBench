@@ -1,0 +1,887 @@
+{
+  "nodes": [
+    {
+      "class": "Afx:00007FF6AB160000:8:0000000000010003:0000000000000000:00000000006405E5",
+      "depth": 0,
+      "enabled": false,
+      "frame": {
+        "h": 600,
+        "w": 1025,
+        "x": 156,
+        "y": 156
+      },
+      "role": "Window",
+      "title": "Nitro PDF Pro"
+    },
+    {
+      "class": "#32770",
+      "depth": 1,
+      "frame": {
+        "h": 523,
+        "w": 738,
+        "x": 299,
+        "y": 195
+      },
+      "role": "Window",
+      "title": "Log in to Nitro PDF Pro"
+    },
+    {
+      "class": "Static",
+      "depth": 2,
+      "frame": {
+        "h": 480,
+        "w": 240,
+        "x": 307,
+        "y": 226
+      },
+      "identifier": "1573",
+      "role": "Image"
+    },
+    {
+      "class": "Static",
+      "depth": 2,
+      "frame": {
+        "h": 480,
+        "w": 240,
+        "x": 789,
+        "y": 226
+      },
+      "identifier": "1572",
+      "role": "Image"
+    },
+    {
+      "class": "Button",
+      "depth": 2,
+      "frame": {
+        "h": 31,
+        "w": 201,
+        "x": 567,
+        "y": 462
+      },
+      "identifier": "1574",
+      "role": "Button",
+      "title": "Log in with browser"
+    },
+    {
+      "class": "Static",
+      "depth": 2,
+      "frame": {
+        "h": 72,
+        "w": 198,
+        "x": 567,
+        "y": 376
+      },
+      "identifier": "1577",
+      "role": "Text",
+      "title": "Welcome to Nitro PDF Pro"
+    },
+    {
+      "class": "Button",
+      "depth": 2,
+      "frame": {
+        "h": 24,
+        "w": 159,
+        "x": 589,
+        "y": 649
+      },
+      "identifier": "1575",
+      "role": "Button",
+      "title": "Skip log in"
+    },
+    {
+      "class": "Button",
+      "depth": 2,
+      "frame": {
+        "h": 16,
+        "w": 164,
+        "x": 595,
+        "y": 621
+      },
+      "identifier": "1576",
+      "role": "Button",
+      "title": "Don't remind me for 30 days"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 23,
+        "w": 722,
+        "x": 307,
+        "y": 203
+      },
+      "identifier": "TitleBar",
+      "role": "TitleBar",
+      "title": "Log in to Nitro PDF Pro"
+    },
+    {
+      "depth": 3,
+      "identifier": "SystemMenuBar",
+      "role": "MenuBar",
+      "title": "System Menu Bar"
+    },
+    {
+      "depth": 4,
+      "identifier": "Item 1",
+      "role": "MenuItem",
+      "title": "System"
+    },
+    {
+      "depth": 3,
+      "frame": {
+        "h": 30,
+        "w": 34,
+        "x": 996,
+        "y": 196
+      },
+      "identifier": "Close",
+      "role": "Button",
+      "title": "Close"
+    },
+    {
+      "class": "InputNonClientPointerSource",
+      "depth": 1,
+      "enabled": false,
+      "frame": {
+        "h": 32,
+        "w": 1009,
+        "x": 164,
+        "y": 156
+      },
+      "role": "Pane",
+      "title": "Non Client Input Sink Window"
+    },
+    {
+      "class": "ReunionWindowingCaptionControls",
+      "depth": 1,
+      "enabled": false,
+      "frame": {
+        "h": 32,
+        "w": 138,
+        "x": 1035,
+        "y": 156
+      },
+      "role": "Pane",
+      "title": "AppWindow Custom Title Bar"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 32,
+        "w": 46,
+        "x": 1035,
+        "y": 156
+      },
+      "identifier": "Minimize",
+      "role": "Button",
+      "title": "Minimize"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 32,
+        "w": 46,
+        "x": 1081,
+        "y": 156
+      },
+      "identifier": "Maximize",
+      "role": "Button",
+      "title": "Maximize"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 32,
+        "w": 46,
+        "x": 1127,
+        "y": 156
+      },
+      "identifier": "Close",
+      "role": "Button",
+      "title": "Close"
+    },
+    {
+      "class": "BCGPRibbonBar:ab160000:8:10003:10",
+      "depth": 1,
+      "frame": {
+        "h": 32,
+        "w": 1009,
+        "x": 164,
+        "y": 156
+      },
+      "identifier": "59398",
+      "role": "ToolBar",
+      "title": " "
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 3,
+        "w": 1009,
+        "x": 164,
+        "y": 185
+      },
+      "role": "ToolBar",
+      "title": "Quick Access Toolbar",
+      "value": "Quick Access Toolbar"
+    },
+    {
+      "class": "Microsoft.UI.Content.DesktopChildSiteBridge",
+      "depth": 1,
+      "enabled": false,
+      "frame": {
+        "h": 592,
+        "w": 1009,
+        "x": 164,
+        "y": 156
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "InputSiteWindowClass",
+      "depth": 2,
+      "enabled": false,
+      "frame": {
+        "h": 592,
+        "w": 1009,
+        "x": 164,
+        "y": 156
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "NamedContainerAutomationPeer",
+      "depth": 3,
+      "frame": {
+        "h": 20,
+        "w": 20,
+        "x": 170,
+        "y": 162
+      },
+      "identifier": "left_section",
+      "role": "Group",
+      "title": "Quick Access Toolbar"
+    },
+    {
+      "class": "Image",
+      "depth": 4,
+      "frame": {
+        "h": 20,
+        "w": 20,
+        "x": 170,
+        "y": 162
+      },
+      "role": "Image"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 3,
+      "frame": {
+        "h": 19,
+        "w": 85,
+        "x": 540,
+        "y": 163
+      },
+      "identifier": "title_text",
+      "role": "Text",
+      "title": "Nitro PDF Pro"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 3,
+      "frame": {
+        "h": 19,
+        "w": 59,
+        "x": 631,
+        "y": 163
+      },
+      "identifier": "state_text",
+      "role": "Text",
+      "title": "(READER)"
+    },
+    {
+      "depth": 3,
+      "frame": {
+        "h": 565,
+        "w": 1009,
+        "x": 164,
+        "y": 188
+      },
+      "identifier": "nv_backstage",
+      "role": "Custom",
+      "title": "File Menu"
+    },
+    {
+      "class": "Button",
+      "depth": 4,
+      "frame": {
+        "h": 36,
+        "w": 40,
+        "x": 168,
+        "y": 194
+      },
+      "identifier": "NavigationViewBackButton",
+      "role": "Button",
+      "title": "Back"
+    },
+    {
+      "class": "Button",
+      "depth": 4,
+      "frame": {
+        "h": 36,
+        "w": 40,
+        "x": 168,
+        "y": 234
+      },
+      "identifier": "TogglePaneButton",
+      "role": "Button",
+      "title": "Close Navigation"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 5,
+      "identifier": "PaneTitleTextBlock",
+      "role": "Text"
+    },
+    {
+      "class": "SplitViewPane",
+      "depth": 4,
+      "frame": {
+        "h": 560,
+        "w": 320,
+        "x": 164,
+        "y": 188
+      },
+      "identifier": "PaneRoot",
+      "role": "Window"
+    },
+    {
+      "class": "ScrollViewer",
+      "depth": 5,
+      "frame": {
+        "h": 418,
+        "w": 320,
+        "x": 164,
+        "y": 272
+      },
+      "identifier": "MenuItemsScrollViewer",
+      "role": "Pane"
+    },
+    {
+      "depth": 6,
+      "frame": {
+        "h": 416,
+        "w": 312,
+        "x": 168,
+        "y": 274
+      },
+      "identifier": "MenuItemsHost",
+      "role": "Group",
+      "title": "File Menu"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 274
+      },
+      "role": "ListItem",
+      "title": "Info"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 314
+      },
+      "role": "ListItem",
+      "title": "Home"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 354
+      },
+      "role": "ListItem",
+      "title": "New"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 394
+      },
+      "role": "ListItem",
+      "title": "Open"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 434
+      },
+      "role": "ListItem",
+      "title": "Save"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 474
+      },
+      "role": "ListItem",
+      "title": "Save As"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 514
+      },
+      "role": "ListItem",
+      "title": "Print"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 554
+      },
+      "role": "ListItem",
+      "title": "Close"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 594
+      },
+      "role": "ListItem",
+      "title": "Attach Files"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 634
+      },
+      "role": "ListItem",
+      "title": "Optimize PDF"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 16,
+        "w": 312,
+        "x": 168,
+        "y": 674
+      },
+      "role": "ListItem",
+      "title": "Document Properties"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "role": "ListItem",
+      "title": "Batch Processing"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "enabled": false,
+      "role": "ListItem",
+      "title": "Batch Print"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "role": "ListItem",
+      "title": "Exit"
+    },
+    {
+      "class": "ScrollBar",
+      "depth": 6,
+      "identifier": "VerticalScrollBar",
+      "role": "ScrollBar",
+      "title": "Vertical"
+    },
+    {
+      "class": "ScrollViewer",
+      "depth": 5,
+      "frame": {
+        "h": 40,
+        "w": 320,
+        "x": 164,
+        "y": 704
+      },
+      "identifier": "FooterItemsScrollViewer",
+      "role": "Pane"
+    },
+    {
+      "depth": 6,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 706
+      },
+      "identifier": "FooterMenuItemsHost",
+      "role": "Group"
+    },
+    {
+      "class": "Microsoft.UI.Xaml.Controls.NavigationViewItem",
+      "depth": 7,
+      "frame": {
+        "h": 36,
+        "w": 312,
+        "x": 168,
+        "y": 706
+      },
+      "identifier": "SettingsItem",
+      "role": "ListItem",
+      "title": "Preferences"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 4,
+      "frame": {
+        "h": 38,
+        "w": 118,
+        "x": 535,
+        "y": 239
+      },
+      "role": "Text",
+      "title": "Welcome"
+    },
+    {
+      "class": "ScrollViewer",
+      "depth": 4,
+      "frame": {
+        "h": 460,
+        "w": 588,
+        "x": 535,
+        "y": 293
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "GridView",
+      "depth": 5,
+      "frame": {
+        "h": 358,
+        "w": 588,
+        "x": 535,
+        "y": 330
+      },
+      "role": "List"
+    },
+    {
+      "class": "GridViewItem",
+      "depth": 6,
+      "frame": {
+        "h": 150,
+        "w": 150,
+        "x": 535,
+        "y": 330
+      },
+      "role": "ListItem"
+    },
+    {
+      "class": "Button",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 150,
+        "w": 150,
+        "x": 535,
+        "y": 330
+      },
+      "identifier": "new_blank_file_button",
+      "role": "Button"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 8,
+      "frame": {
+        "h": 19,
+        "w": 90,
+        "x": 565,
+        "y": 423
+      },
+      "role": "Text",
+      "title": "New Blank File"
+    },
+    {
+      "class": "GridViewItem",
+      "depth": 6,
+      "frame": {
+        "h": 150,
+        "w": 150,
+        "x": 733,
+        "y": 330
+      },
+      "role": "ListItem"
+    },
+    {
+      "class": "Button",
+      "depth": 7,
+      "frame": {
+        "h": 150,
+        "w": 150,
+        "x": 733,
+        "y": 330
+      },
+      "identifier": "new_pdf_from_file_button",
+      "role": "Button"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 8,
+      "frame": {
+        "h": 19,
+        "w": 115,
+        "x": 751,
+        "y": 423
+      },
+      "role": "Text",
+      "title": "New PDF from File"
+    },
+    {
+      "class": "GridViewItem",
+      "depth": 6,
+      "frame": {
+        "h": 150,
+        "w": 150,
+        "x": 535,
+        "y": 504
+      },
+      "role": "ListItem"
+    },
+    {
+      "class": "Button",
+      "depth": 7,
+      "enabled": false,
+      "frame": {
+        "h": 150,
+        "w": 150,
+        "x": 535,
+        "y": 504
+      },
+      "identifier": "combine_files_button",
+      "role": "Button"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 8,
+      "frame": {
+        "h": 19,
+        "w": 87,
+        "x": 567,
+        "y": 597
+      },
+      "role": "Text",
+      "title": "Combine Files"
+    },
+    {
+      "class": "NamedContainerAutomationPeer",
+      "depth": 5,
+      "frame": {
+        "h": 36,
+        "w": 588,
+        "x": 535,
+        "y": 717
+      },
+      "identifier": "recent_documents",
+      "role": "Group",
+      "title": "Recent Documents"
+    },
+    {
+      "class": "AutoSuggestBox",
+      "depth": 6,
+      "frame": {
+        "h": 27,
+        "w": 185,
+        "x": 535,
+        "y": 721
+      },
+      "identifier": "search_box",
+      "role": "Group",
+      "title": "Search for a document"
+    },
+    {
+      "class": "TextBox",
+      "depth": 7,
+      "frame": {
+        "h": 27,
+        "w": 185,
+        "x": 535,
+        "y": 721
+      },
+      "identifier": "TextBox",
+      "role": "Edit",
+      "title": "Search for a document"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 8,
+      "frame": {
+        "h": 19,
+        "w": 130,
+        "x": 579,
+        "y": 727
+      },
+      "role": "Text",
+      "title": "Search for a document"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 6,
+      "frame": {
+        "h": 19,
+        "w": 55,
+        "x": 904,
+        "y": 728
+      },
+      "role": "Text",
+      "title": "Order by"
+    },
+    {
+      "class": "ComboBox",
+      "depth": 6,
+      "frame": {
+        "h": 36,
+        "w": 160,
+        "x": 963,
+        "y": 717
+      },
+      "identifier": "order_by_combo_box",
+      "role": "ComboBox"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 6,
+      "role": "Text",
+      "title": "Recent Documents"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 6,
+      "role": "Text",
+      "title": "Document Name"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 6,
+      "role": "Text",
+      "title": "Folder"
+    },
+    {
+      "class": "ListView",
+      "depth": 6,
+      "identifier": "recent_documents_list_view",
+      "role": "List",
+      "title": "Recent documents list"
+    },
+    {
+      "class": "ScrollBar",
+      "depth": 5,
+      "identifier": "VerticalScrollBar",
+      "role": "ScrollBar",
+      "title": "Vertical"
+    },
+    {
+      "class": "Button",
+      "depth": 3,
+      "frame": {
+        "h": 23,
+        "w": 47,
+        "x": 1116,
+        "y": 198
+      },
+      "identifier": "log_in_button",
+      "role": "Button",
+      "title": "Log in"
+    },
+    {
+      "class": "TextBlock",
+      "depth": 4,
+      "frame": {
+        "h": 19,
+        "w": 39,
+        "x": 1120,
+        "y": 200
+      },
+      "role": "Text",
+      "title": "Log in"
+    },
+    {
+      "class": "MDIClient",
+      "depth": 1,
+      "enabled": false,
+      "frame": {
+        "h": 560,
+        "w": 1009,
+        "x": 164,
+        "y": 188
+      },
+      "identifier": "59648",
+      "role": "Pane"
+    },
+    {
+      "depth": 1,
+      "enabled": false,
+      "frame": {
+        "h": 23,
+        "w": 1009,
+        "x": 164,
+        "y": 164
+      },
+      "identifier": "TitleBar",
+      "role": "TitleBar",
+      "title": "Nitro PDF Pro"
+    }
+  ],
+  "truncated": false,
+  "windows": 1
+}

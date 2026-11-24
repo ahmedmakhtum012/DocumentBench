@@ -1,0 +1,2016 @@
+{
+  "nodes": [
+    {
+      "class": "Tauri Window",
+      "depth": 0,
+      "frame": {
+        "h": 788,
+        "w": 1386,
+        "x": 0,
+        "y": 0
+      },
+      "role": "Window",
+      "title": "NitroCraft"
+    },
+    {
+      "class": "TAURI_DRAG_RESIZE_BORDERS",
+      "depth": 1,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane",
+      "title": "TAURI_DRAG_RESIZE_WINDOW"
+    },
+    {
+      "class": "WRY_WEBVIEW",
+      "depth": 1,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "Chrome_WidgetWin_1",
+      "depth": 2,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane",
+      "title": "NitroCraft"
+    },
+    {
+      "class": "Intermediate D3D Window",
+      "depth": 3,
+      "enabled": false,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "RootView",
+      "depth": 3,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane",
+      "title": "NitroCraft - Web content"
+    },
+    {
+      "class": "NonClientView",
+      "depth": 4,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "EmbeddedBrowserTabRootView",
+      "depth": 5,
+      "role": "Pane"
+    },
+    {
+      "class": "NativeFrameView",
+      "depth": 5,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane"
+    },
+    {
+      "class": "ClientView",
+      "depth": 6,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Pane"
+    },
+    {
+      "depth": 7,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "identifier": "RootWebArea",
+      "role": "Document",
+      "title": "NitroCraft",
+      "value": "http://tauri.localhost/"
+    },
+    {
+      "depth": 8,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "identifier": "root",
+      "role": "Group"
+    },
+    {
+      "class": "app-shell",
+      "depth": 9,
+      "frame": {
+        "h": 779,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Group"
+    },
+    {
+      "class": "titlebar",
+      "depth": 10,
+      "frame": {
+        "h": 40,
+        "w": 1370,
+        "x": 8,
+        "y": 1
+      },
+      "role": "Group"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 20,
+        "w": 66,
+        "x": 55,
+        "y": 11
+      },
+      "role": "Text",
+      "title": "NitroCraft"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 12,
+        "w": 79,
+        "x": 141,
+        "y": 15
+      },
+      "role": "Text",
+      "title": "PDF WORKSPACE"
+    },
+    {
+      "class": "title-icon",
+      "depth": 11,
+      "frame": {
+        "h": 28,
+        "w": 31,
+        "x": 252,
+        "y": 7
+      },
+      "role": "Button",
+      "title": "Open (Ctrl+O)"
+    },
+    {
+      "class": "title-icon",
+      "depth": 11,
+      "frame": {
+        "h": 28,
+        "w": 31,
+        "x": 282,
+        "y": 7
+      },
+      "role": "Button",
+      "title": "Save (Ctrl+S)"
+    },
+    {
+      "class": "title-icon",
+      "depth": 11,
+      "frame": {
+        "h": 28,
+        "w": 31,
+        "x": 312,
+        "y": 7
+      },
+      "role": "Button",
+      "title": "Print (Ctrl+P)"
+    },
+    {
+      "class": "title-icon",
+      "depth": 11,
+      "enabled": false,
+      "frame": {
+        "h": 28,
+        "w": 31,
+        "x": 342,
+        "y": 7
+      },
+      "role": "Button",
+      "title": "Undo"
+    },
+    {
+      "class": "title-icon",
+      "depth": 11,
+      "enabled": false,
+      "frame": {
+        "h": 28,
+        "w": 31,
+        "x": 372,
+        "y": 7
+      },
+      "role": "Button",
+      "title": "Redo"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 16,
+        "w": 78,
+        "x": 654,
+        "y": 13
+      },
+      "role": "Text",
+      "title": "Project brief.pdf"
+    },
+    {
+      "class": "title-help",
+      "depth": 11,
+      "frame": {
+        "h": 38,
+        "w": 38,
+        "x": 1205,
+        "y": 2
+      },
+      "role": "Button",
+      "title": "Keyboard shortcuts"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 40,
+        "w": 45,
+        "x": 1243,
+        "y": 1
+      },
+      "role": "Button",
+      "title": "Minimize"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 40,
+        "w": 45,
+        "x": 1288,
+        "y": 1
+      },
+      "role": "Button",
+      "title": "Maximize"
+    },
+    {
+      "class": "window-close",
+      "depth": 11,
+      "frame": {
+        "h": 40,
+        "w": 45,
+        "x": 1333,
+        "y": 1
+      },
+      "role": "Button",
+      "title": "Close"
+    },
+    {
+      "class": "ribbon-tabs",
+      "depth": 10,
+      "frame": {
+        "h": 38,
+        "w": 1370,
+        "x": 8,
+        "y": 41
+      },
+      "role": "Group",
+      "title": "Main ribbon tabs"
+    },
+    {
+      "class": "file-tab",
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 65,
+        "x": 16,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "File"
+    },
+    {
+      "class": "active-tab",
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 62,
+        "x": 86,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Home"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 49,
+        "x": 148,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Edit"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 71,
+        "x": 197,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Convert"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 66,
+        "x": 268,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Review"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 61,
+        "x": 334,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Forms"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 67,
+        "x": 395,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Protect"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 59,
+        "x": 462,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Share"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 90,
+        "x": 521,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Smart Tools"
+    },
+    {
+      "class": "feedback-button",
+      "depth": 11,
+      "frame": {
+        "h": 35,
+        "w": 65,
+        "x": 1305,
+        "y": 43
+      },
+      "role": "Button",
+      "title": "Help"
+    },
+    {
+      "class": "ribbon",
+      "depth": 10,
+      "frame": {
+        "h": 108,
+        "w": 1370,
+        "x": 8,
+        "y": 79
+      },
+      "role": "Group"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 13,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Hand"
+    },
+    {
+      "class": "ribbon-action  active-tool",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 66,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Select"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 119,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Type Text"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 172,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Edit"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 23,
+        "x": 107,
+        "y": 169
+      },
+      "role": "Text",
+      "title": "Tools"
+    },
+    {
+      "class": "ribbon-action large-action ",
+      "depth": 11,
+      "frame": {
+        "h": 69,
+        "w": 66,
+        "x": 229,
+        "y": 90
+      },
+      "role": "Button",
+      "title": "Insert Pages"
+    },
+    {
+      "class": "ribbon-action large-action ",
+      "depth": 11,
+      "frame": {
+        "h": 69,
+        "w": 73,
+        "x": 296,
+        "y": 90
+      },
+      "role": "Button",
+      "title": "Combine Files"
+    },
+    {
+      "class": "ribbon-action large-action ",
+      "depth": 11,
+      "frame": {
+        "h": 69,
+        "w": 78,
+        "x": 370,
+        "y": 90
+      },
+      "role": "Button",
+      "title": "Split Document"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 61,
+        "x": 449,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Rotate Left"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 67,
+        "x": 511,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Rotate Right"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 70,
+        "x": 579,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Extract Pages"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 69,
+        "x": 650,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Delete Pages"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 26,
+        "x": 461,
+        "y": 169
+      },
+      "role": "Text",
+      "title": "Pages"
+    },
+    {
+      "class": "ribbon-action large-action ",
+      "depth": 11,
+      "frame": {
+        "h": 69,
+        "w": 65,
+        "x": 729,
+        "y": 90
+      },
+      "role": "Button",
+      "title": "From File"
+    },
+    {
+      "class": "ribbon-action large-action ",
+      "depth": 11,
+      "frame": {
+        "h": 69,
+        "w": 65,
+        "x": 795,
+        "y": 90
+      },
+      "role": "Button",
+      "title": "From Scanner"
+    },
+    {
+      "class": "ribbon-action large-action ",
+      "depth": 11,
+      "frame": {
+        "h": 69,
+        "w": 65,
+        "x": 861,
+        "y": 90
+      },
+      "role": "Button",
+      "title": "Blank PDF"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 30,
+        "x": 812,
+        "y": 169
+      },
+      "role": "Text",
+      "title": "Create"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 935,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Fit Page"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 988,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Fit Width"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 54,
+        "x": 1041,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Actual Size"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 52,
+        "x": 1096,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Zoom"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 22,
+        "x": 1031,
+        "y": 169
+      },
+      "role": "Text",
+      "title": "View"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 51,
+        "x": 1155,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Find Text"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 63,
+        "x": 1208,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Snapshot"
+    },
+    {
+      "class": "ribbon-action  ",
+      "depth": 11,
+      "frame": {
+        "h": 59,
+        "w": 70,
+        "x": 1272,
+        "y": 95
+      },
+      "role": "Button",
+      "title": "Bookmarks"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 23,
+        "x": 1237,
+        "y": 169
+      },
+      "role": "Text",
+      "title": "Tools"
+    },
+    {
+      "class": "icon-button",
+      "depth": 11,
+      "frame": {
+        "h": 29,
+        "w": 29,
+        "x": 1342,
+        "y": 84
+      },
+      "role": "Button",
+      "title": "Ribbon display options"
+    },
+    {
+      "class": "document-tab-home",
+      "depth": 10,
+      "frame": {
+        "h": 29,
+        "w": 31,
+        "x": 15,
+        "y": 191
+      },
+      "role": "Button"
+    },
+    {
+      "class": "document-tab active-document-tab",
+      "depth": 10,
+      "frame": {
+        "h": 30,
+        "w": 142,
+        "x": 49,
+        "y": 190
+      },
+      "role": "Button",
+      "title": "Project brief.pdf Close Project brief.pdf"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 20,
+        "w": 21,
+        "x": 162,
+        "y": 195
+      },
+      "role": "Button",
+      "title": "Close Project brief.pdf"
+    },
+    {
+      "class": "new-document-tab",
+      "depth": 10,
+      "frame": {
+        "h": 29,
+        "w": 32,
+        "x": 193,
+        "y": 191
+      },
+      "role": "Button",
+      "title": "New blank document"
+    },
+    {
+      "class": "navigation-rail",
+      "depth": 10,
+      "frame": {
+        "h": 532,
+        "w": 52,
+        "x": 8,
+        "y": 221
+      },
+      "role": "Group"
+    },
+    {
+      "class": "rail-active",
+      "depth": 11,
+      "frame": {
+        "h": 51,
+        "w": 51,
+        "x": 8,
+        "y": 226
+      },
+      "role": "Button",
+      "title": "Pages"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 51,
+        "w": 51,
+        "x": 8,
+        "y": 277
+      },
+      "role": "Button",
+      "title": "Bookmarks"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 51,
+        "w": 51,
+        "x": 8,
+        "y": 328
+      },
+      "role": "Button",
+      "title": "Attachments"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 51,
+        "w": 51,
+        "x": 8,
+        "y": 379
+      },
+      "role": "Button",
+      "title": "Comments"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 51,
+        "w": 51,
+        "x": 8,
+        "y": 697
+      },
+      "role": "Button",
+      "title": "Properties"
+    },
+    {
+      "class": "left-sidebar",
+      "depth": 10,
+      "frame": {
+        "h": 532,
+        "w": 224,
+        "x": 60,
+        "y": 221
+      },
+      "role": "Group"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 17,
+        "w": 94,
+        "x": 73,
+        "y": 233
+      },
+      "role": "Text",
+      "title": "Page Thumbnails"
+    },
+    {
+      "class": "icon-button",
+      "depth": 11,
+      "frame": {
+        "h": 29,
+        "w": 29,
+        "x": 245,
+        "y": 227
+      },
+      "role": "Button"
+    },
+    {
+      "class": "thumbnail-page",
+      "depth": 11,
+      "frame": {
+        "h": 184,
+        "w": 143,
+        "x": 95,
+        "y": 281
+      },
+      "role": "Button",
+      "title": "NORTHSTAR OPERATIONS / 2026 PROJECT BRIEF A clearer way to work. A practical plan for better document workflows. Prepared by the Operations Team 22 November 2026 01   EXECUTIVE SUMMARY This document outlines a focused approach to improving how teams create, review, and share important documents. The goal is a simpler workflow that gives people more time for meaningful work. Three priorities guide the proposal: consistent document standards, clear collaboration, and secure information handling. Northstar Operations 01 / 04"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 21,
+        "w": 121,
+        "x": 106,
+        "y": 316
+      },
+      "role": "Text",
+      "title": "A clearer way to work."
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 3,
+        "w": 121,
+        "x": 106,
+        "y": 432
+      },
+      "role": "Text",
+      "title": "01   EXECUTIVE SUMMARY"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 15,
+        "w": 7,
+        "x": 163,
+        "y": 469
+      },
+      "role": "Text",
+      "title": "1"
+    },
+    {
+      "class": "thumbnail-page",
+      "depth": 11,
+      "frame": {
+        "h": 185,
+        "w": 143,
+        "x": 95,
+        "y": 508
+      },
+      "role": "Button",
+      "title": "NORTHSTAR   /   PROJECT BRIEF Key objectives A consistent, confident way to work. 01 Standardize Use shared templates and clear naming to make every document easier to understand. 02 Collaborate Bring feedback together in one place. Give every comment an owner and a clear next step. 03 Protect Identify sensitive information early and apply the right level of protection before sharing. A better document workflow Key objectives 02 / 04"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 8,
+        "w": 121,
+        "x": 106,
+        "y": 528
+      },
+      "role": "Text",
+      "title": "Key objectives"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 92,
+        "x": 117,
+        "y": 554
+      },
+      "role": "Text",
+      "title": "Standardize"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 96,
+        "x": 117,
+        "y": 570
+      },
+      "role": "Text",
+      "title": "Collaborate"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 94,
+        "x": 117,
+        "y": 585
+      },
+      "role": "Text",
+      "title": "Protect"
+    },
+    {
+      "class": "sample-table-title",
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 121,
+        "x": 106,
+        "y": 601
+      },
+      "role": "Text",
+      "title": "A better document workflow"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 50,
+        "w": 121,
+        "x": 106,
+        "y": 607
+      },
+      "role": "Table"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 10,
+        "w": 121,
+        "x": 106,
+        "y": 607
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 58,
+        "x": 106,
+        "y": 607
+      },
+      "role": "DataItem",
+      "title": "Before"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 64,
+        "x": 163,
+        "y": 607
+      },
+      "role": "DataItem",
+      "title": "After"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 616
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 58,
+        "x": 106,
+        "y": 616
+      },
+      "role": "DataItem",
+      "title": "Multiple versions"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 64,
+        "x": 163,
+        "y": 616
+      },
+      "role": "DataItem",
+      "title": "One trusted source"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 626
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 58,
+        "x": 106,
+        "y": 626
+      },
+      "role": "DataItem",
+      "title": "Scattered feedback"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 64,
+        "x": 163,
+        "y": 626
+      },
+      "role": "DataItem",
+      "title": "Organized comments"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 636
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 58,
+        "x": 106,
+        "y": 636
+      },
+      "role": "DataItem",
+      "title": "Manual checks"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 64,
+        "x": 163,
+        "y": 636
+      },
+      "role": "DataItem",
+      "title": "Guided reviews"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 646
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 58,
+        "x": 106,
+        "y": 646
+      },
+      "role": "DataItem",
+      "title": "Unclear ownership"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 64,
+        "x": 163,
+        "y": 646
+      },
+      "role": "DataItem",
+      "title": "Named contributors"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 15,
+        "w": 7,
+        "x": 163,
+        "y": 697
+      },
+      "role": "Text",
+      "title": "2"
+    },
+    {
+      "class": "thumbnail-page",
+      "depth": 11,
+      "frame": {
+        "h": 185,
+        "w": 143,
+        "x": 95,
+        "y": 736
+      },
+      "role": "Button",
+      "title": "NORTHSTAR   /   PROJECT BRIEF Implementation plan Six weeks from discovery to rollout. 01 Discovery Interview stakeholders and map the current document journey. OWNER   Maya Chen Week 1 02 Pilot Test templates, review workflows, and training with a small group. OWNER   Jordan Lee Week 2–3 03 Refinement Resolve feedback and publish the final operating guide. OWNER   Sam Rivera Week 4 04 Rollout Introduce the new process with supported team sessions. OWNER   Operations Team Week 5–6 Readiness checklist ☑   Sponsors confirmed ☑   Pilot group selected ☐   Training sessions scheduled ☐   Success baseline recorded Implementation plan 03 / 04"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 8,
+        "w": 121,
+        "x": 106,
+        "y": 756
+      },
+      "role": "Text",
+      "title": "Implementation plan"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 6,
+        "w": 61,
+        "x": 115,
+        "y": 785
+      },
+      "role": "Text",
+      "title": "Discovery"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 63,
+        "x": 115,
+        "y": 805
+      },
+      "role": "Text",
+      "title": "Pilot"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 54,
+        "x": 115,
+        "y": 825
+      },
+      "role": "Text",
+      "title": "Refinement"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 55,
+        "x": 115,
+        "y": 844
+      },
+      "role": "Text",
+      "title": "Rollout"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 112,
+        "x": 111,
+        "y": 868
+      },
+      "role": "Text",
+      "title": "Readiness checklist"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 15,
+        "w": 7,
+        "x": 163,
+        "y": 925
+      },
+      "role": "Text",
+      "title": "3"
+    },
+    {
+      "class": "thumbnail-page",
+      "depth": 11,
+      "frame": {
+        "h": 184,
+        "w": 143,
+        "x": 95,
+        "y": 964
+      },
+      "role": "Button",
+      "title": "NORTHSTAR   /   PROJECT BRIEF Success measures A simple scorecard for continuous improvement. Review and approval This proposal is ready for stakeholder review. Comments can be added directly to this document; approvals are tracked below. Approved by Date Next steps Confirm the pilot group, agree on the baseline, and schedule the kickoff session. Operations Team operations@example.com +1 (206) 555-0148 Success measures 04 / 04"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 8,
+        "w": 121,
+        "x": 106,
+        "y": 984
+      },
+      "role": "Text",
+      "title": "Success measures"
+    },
+    {
+      "class": "metrics",
+      "depth": 12,
+      "frame": {
+        "h": 50,
+        "w": 121,
+        "x": 106,
+        "y": 1010
+      },
+      "role": "Table"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 10,
+        "w": 121,
+        "x": 106,
+        "y": 1010
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 63,
+        "x": 106,
+        "y": 1010
+      },
+      "role": "DataItem",
+      "title": "Measure"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 30,
+        "x": 168,
+        "y": 1010
+      },
+      "role": "DataItem",
+      "title": "Target"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 30,
+        "x": 197,
+        "y": 1010
+      },
+      "role": "DataItem",
+      "title": "Frequency"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 1019
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 63,
+        "x": 106,
+        "y": 1019
+      },
+      "role": "DataItem",
+      "title": "Document preparation"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 30,
+        "x": 168,
+        "y": 1019
+      },
+      "role": "DataItem",
+      "title": "−30% time"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 30,
+        "x": 197,
+        "y": 1019
+      },
+      "role": "DataItem",
+      "title": "Monthly"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 1029
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 63,
+        "x": 106,
+        "y": 1029
+      },
+      "role": "DataItem",
+      "title": "Reviews on time"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 30,
+        "x": 168,
+        "y": 1029
+      },
+      "role": "DataItem",
+      "title": "90%"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 30,
+        "x": 197,
+        "y": 1029
+      },
+      "role": "DataItem",
+      "title": "Weekly"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 11,
+        "w": 121,
+        "x": 106,
+        "y": 1039
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 63,
+        "x": 106,
+        "y": 1039
+      },
+      "role": "DataItem",
+      "title": "User confidence"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 30,
+        "x": 168,
+        "y": 1039
+      },
+      "role": "DataItem",
+      "title": "4.5 / 5"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 11,
+        "w": 30,
+        "x": 197,
+        "y": 1039
+      },
+      "role": "DataItem",
+      "title": "Quarterly"
+    },
+    {
+      "depth": 13,
+      "frame": {
+        "h": 10,
+        "w": 121,
+        "x": 106,
+        "y": 1049
+      },
+      "role": "DataItem"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 63,
+        "x": 106,
+        "y": 1049
+      },
+      "role": "DataItem",
+      "title": "Protected external files"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 30,
+        "x": 168,
+        "y": 1049
+      },
+      "role": "DataItem",
+      "title": "100%"
+    },
+    {
+      "depth": 14,
+      "frame": {
+        "h": 10,
+        "w": 30,
+        "x": 197,
+        "y": 1049
+      },
+      "role": "DataItem",
+      "title": "Monthly"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 111,
+        "x": 111,
+        "y": 1073
+      },
+      "role": "Text",
+      "title": "Review and approval"
+    },
+    {
+      "depth": 12,
+      "frame": {
+        "h": 5,
+        "w": 121,
+        "x": 106,
+        "y": 1116
+      },
+      "role": "Text",
+      "title": "Next steps"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 7,
+        "x": 163,
+        "y": 1153
+      },
+      "role": "Text",
+      "title": "4"
+    },
+    {
+      "class": "document-area",
+      "depth": 10,
+      "frame": {
+        "h": 532,
+        "w": 1094,
+        "x": 284,
+        "y": 221
+      },
+      "role": "Group"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 10,
+        "w": 47,
+        "x": 582,
+        "y": 290
+      },
+      "role": "Text",
+      "title": "NORTHSTAR"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 10,
+        "w": 72,
+        "x": 1012,
+        "y": 290
+      },
+      "role": "Text",
+      "title": "OPERATIONS / 2026"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 11,
+        "w": 74,
+        "x": 568,
+        "y": 373
+      },
+      "role": "Text",
+      "title": "PROJECT BRIEF"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 89,
+        "w": 516,
+        "x": 568,
+        "y": 400
+      },
+      "role": "Text",
+      "title": "A clearer way to work."
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 21,
+        "w": 163,
+        "x": 568,
+        "y": 508
+      },
+      "role": "Text",
+      "title": "A practical plan for better"
+    },
+    {
+      "depth": 11,
+      "role": "Text",
+      "title": "\n"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 21,
+        "w": 137,
+        "x": 568,
+        "y": 529
+      },
+      "role": "Text",
+      "title": "document workflows."
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 11,
+        "w": 112,
+        "x": 568,
+        "y": 742
+      },
+      "role": "Text",
+      "title": "Prepared by the Operations Team"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 11,
+        "w": 64,
+        "x": 1020,
+        "y": 742
+      },
+      "role": "Text",
+      "title": "22 November 2026"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 13,
+        "w": 516,
+        "x": 568,
+        "y": 902
+      },
+      "role": "Text",
+      "title": "01   EXECUTIVE SUMMARY"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 24,
+        "w": 487,
+        "x": 568,
+        "y": 922
+      },
+      "role": "Text",
+      "title": "This document outlines a focused approach to improving how teams create, review, and share important documents. The goal is a simpler workflow that gives people more time for meaningful work."
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 12,
+        "w": 453,
+        "x": 568,
+        "y": 957
+      },
+      "role": "Text",
+      "title": "Three priorities guide the proposal: consistent document standards, clear collaboration, and secure information handling."
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 9,
+        "w": 65,
+        "x": 568,
+        "y": 1010
+      },
+      "role": "Text",
+      "title": "Northstar Operations"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 9,
+        "w": 23,
+        "x": 1061,
+        "y": 1010
+      },
+      "role": "Text",
+      "title": "01 / 04"
+    },
+    {
+      "class": "annotation annotation-note ",
+      "depth": 11,
+      "frame": {
+        "h": 45,
+        "w": 34,
+        "x": 985,
+        "y": 781
+      },
+      "role": "Button",
+      "title": "Review the rollout dates with the project team."
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 25,
+        "x": 801,
+        "y": 1056
+      },
+      "role": "Text",
+      "title": "Page "
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 6,
+        "x": 825,
+        "y": 1056
+      },
+      "role": "Text",
+      "title": "1"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 16,
+        "x": 830,
+        "y": 1056
+      },
+      "role": "Text",
+      "title": " of "
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 14,
+        "w": 6,
+        "x": 845,
+        "y": 1056
+      },
+      "role": "Text",
+      "title": "4"
+    },
+    {
+      "class": "statusbar",
+      "depth": 10,
+      "frame": {
+        "h": 27,
+        "w": 1370,
+        "x": 8,
+        "y": 753
+      },
+      "role": "Group"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 12,
+        "w": 25,
+        "x": 26,
+        "y": 761
+      },
+      "role": "Text",
+      "title": "Ready"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 16,
+        "w": 75,
+        "x": 63,
+        "y": 759
+      },
+      "role": "Button",
+      "title": "No security"
+    },
+    {
+      "depth": 11,
+      "enabled": false,
+      "frame": {
+        "h": 24,
+        "w": 25,
+        "x": 641,
+        "y": 755
+      },
+      "role": "Button"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 20,
+        "w": 33,
+        "x": 669,
+        "y": 757
+      },
+      "role": "Edit",
+      "title": "Current page",
+      "value": "1"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 12,
+        "w": 7,
+        "x": 705,
+        "y": 761
+      },
+      "role": "Text",
+      "title": "/ "
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 12,
+        "w": 6,
+        "x": 711,
+        "y": 761
+      },
+      "role": "Text",
+      "title": "4"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 24,
+        "w": 25,
+        "x": 720,
+        "y": 755
+      },
+      "role": "Button"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 24,
+        "w": 25,
+        "x": 1146,
+        "y": 755
+      },
+      "role": "Button",
+      "title": "Zoom out (Ctrl+J)"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 4,
+        "w": 86,
+        "x": 1175,
+        "y": 765
+      },
+      "role": "Slider",
+      "title": "Zoom",
+      "value": "100"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 24,
+        "w": 25,
+        "x": 1265,
+        "y": 755
+      },
+      "role": "Button",
+      "title": "Zoom in (Ctrl+K)"
+    },
+    {
+      "class": "zoom-value",
+      "depth": 11,
+      "frame": {
+        "h": 24,
+        "w": 51,
+        "x": 1292,
+        "y": 755
+      },
+      "role": "Button",
+      "title": "100%"
+    },
+    {
+      "depth": 11,
+      "frame": {
+        "h": 24,
+        "w": 24,
+        "x": 1346,
+        "y": 755
+      },
+      "role": "Button",
+      "title": "Fit page (Ctrl+0)"
+    },
+    {
+      "class": "EmbeddedBrowserDownloadView",
+      "depth": 7,
+      "role": "Pane"
+    },
+    {
+      "depth": 1,
+      "frame": {
+        "h": 23,
+        "w": 1370,
+        "x": 8,
+        "y": 8
+      },
+      "identifier": "TitleBar",
+      "role": "TitleBar",
+      "title": "NitroCraft"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 22,
+        "w": 22,
+        "x": 8,
+        "y": 8
+      },
+      "identifier": "SystemMenuBar",
+      "role": "MenuBar",
+      "title": "System Menu Bar"
+    },
+    {
+      "depth": 3,
+      "frame": {
+        "h": 22,
+        "w": 22,
+        "x": 8,
+        "y": 8
+      },
+      "identifier": "Item 1",
+      "role": "MenuItem",
+      "title": "System"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 24,
+        "w": 47,
+        "x": 1239,
+        "y": -22
+      },
+      "identifier": "Minimize",
+      "role": "Button",
+      "title": "Minimize"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 24,
+        "w": 46,
+        "x": 1286,
+        "y": -22
+      },
+      "identifier": "Maximize",
+      "role": "Button",
+      "title": "Maximize"
+    },
+    {
+      "depth": 2,
+      "frame": {
+        "h": 24,
+        "w": 47,
+        "x": 1332,
+        "y": -22
+      },
+      "identifier": "Close",
+      "role": "Button",
+      "title": "Close"
+    },
+    {
+      "class": "Tao Thread Event Target",
+      "depth": 0,
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "role": "Pane"
+    }
+  ],
+  "truncated": false,
+  "windows": 2
+}
